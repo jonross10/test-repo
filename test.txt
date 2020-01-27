@@ -1,0 +1,5 @@
+testing
+testing-client == 2.0.4
+
+internal/python/testing_client-2.0.4-py2.7.egg
+other text
